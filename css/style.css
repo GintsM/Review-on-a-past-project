@@ -1,0 +1,68 @@
+body {
+  background-color: rgb(168, 163, 163);
+}
+
+@media (max-width: 600 px) {
+  body {
+    background-color: rgb(245, 150, 150);
+  }
+}
+
+@media (orientation: landscape) {
+  body {
+    background-color: rgb(100, 146, 82);
+  }
+}
+
+@media (any-hover: hover) {
+  a:hover {
+    background: yellow;
+  }
+}
+
+.stay {
+  background-color: hsl(0, 11%, 85%);
+}
+
+.nav {
+  height: 120px;
+  width: 120px;
+  position: fixed;
+  overflow: hidden;
+}
+
+li {
+  justify-items: center;
+  color: crimson;
+  list-style: none;
+}
+
+#main-doc {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#main-header {
+  position: relative;
+  left: 120px;
+}
+
+#catpl {
+  height: 206px;
+}
+
+#rose {
+  height: 348px;
+}
+
+#ev {
+  height: 300px;
+}
+
+#sqrl {
+  height: 246px;
+}
+
+.mq-value {
+  font-size: x-large;
+}
