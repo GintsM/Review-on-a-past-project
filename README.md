@@ -5,6 +5,13 @@ Personal review on trial project
     HTML
     CSS
 
+## How to get repository for your self
+
+    To get repo for your self you can 
+    click on green button called Code 
+    and then go on copie link. After that 
+    you should make commands in your git bash terminal
+
 ## 👤 Author
 
     GitHub: @GintsM
