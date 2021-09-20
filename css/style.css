@@ -5,7 +5,7 @@ body {
 @media (max-width: 600 px) {
   body {
     background-color: rgb(245, 150, 150);
-  }  
+  }
 }
 
 @media (orientation: landscape) {
@@ -32,9 +32,9 @@ body {
 }
 
 li {
- justify-items: center;
- color: crimson;
- list-style: none;
+  justify-items: center;
+  color: crimson;
+  list-style: none;
 }
 
 #main-doc {
@@ -44,7 +44,7 @@ li {
 
 #main-header {
   position: relative;
-  left: 120px ;
+  left: 120px;
 }
 
 #catpl {
@@ -55,7 +55,8 @@ li {
   height: 348px;
 }
 
-#ev, #cabin {
+#ev,
+ #cabin {
   height: 300px;
 }
 
